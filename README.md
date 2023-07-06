@@ -1,3 +1,3 @@
-# Movilens-project-analysis
+# Movielens-project-analysis
 
 This is a python project 
